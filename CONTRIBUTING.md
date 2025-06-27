@@ -179,21 +179,36 @@ Any [Maintainer] can merge the PR once the above criteria have been met.
 
 ## Approvers and Maintainers
 
-### Triagers
+### Maintainers
 
-For the current list of Triagers, please see the [`MAINTAINERS.md`](MAINTAINERS.md) file.
+- [Huxing Zhang](https://github.com/ralf0131), Alibaba
+- [Kemal Akkoyun](https://github.com/kakkoyun), Datadog
+- [Liu Ziming](https://github.com/123liuziming), Alibaba
+- [Przemyslaw Delewski](https://github.com/pdelewski), Quesma
+- [Romain Marcadier](https://github.com/RomainMuller), Datadog
+
+For more information about the maintainer role, see the [community repository](https://github.com/open-telemetry/community/blob/main/guides/contributor/membership.md#maintainer).
 
 ### Approvers
 
-For the current list of Approvers, please see the [`MAINTAINERS.md`](MAINTAINERS.md) file.
+- [Dario Castañe](https://github.com/darccio), Datadog
+- [Eliott Bouhana](https://github.com/eliottness), Datadog
+- [Haibin Zhang](https://github.com/NameHaibinZhang), Alibaba
+- [Yin Yang](https://github.com/y1yang0), Alibaba
 
-### Maintainers
+For more information about the approver role, see the [community repository](https://github.com/open-telemetry/community/blob/main/guides/contributor/membership.md#approver).
 
-For the current list of Maintainers, please see the [`MAINTAINERS.md`](MAINTAINERS.md) file.
+### Triagers
 
-### Emeritus
+TBA
 
-For the current list of Emeritus Maintainers, please see the [`MAINTAINERS.md`](MAINTAINERS.md) file.
+For more information about the triager role, see the [community repository](https://github.com/open-telemetry/community/blob/main/guides/contributor/membership.md#triager).
+
+### Emeritus maintainers
+
+- [Dinesh Gurumurthy](https://github.com/dineshg13), Datadog
+
+For more information about the emeritus role, see the [community repository](https://github.com/open-telemetry/community/blob/main/guides/contributor/membership.md#emeritus-maintainerapprovertriager).
 
 ### Become an Approver or a Maintainer
 

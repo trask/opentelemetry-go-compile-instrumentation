@@ -198,19 +198,8 @@ For more information about the maintainer role, see the [community repository](h
 
 For more information about the approver role, see the [community repository](https://github.com/open-telemetry/community/blob/main/guides/contributor/membership.md#approver).
 
-### Triagers
-
-TBA
-
-For more information about the triager role, see the [community repository](https://github.com/open-telemetry/community/blob/main/guides/contributor/membership.md#triager).
-
 ### Emeritus maintainers
 
 - [Dinesh Gurumurthy](https://github.com/dineshg13), Datadog
 
 For more information about the emeritus role, see the [community repository](https://github.com/open-telemetry/community/blob/main/guides/contributor/membership.md#emeritus-maintainerapprovertriager).
-
-### Become an Approver or a Maintainer
-
-See the [community membership document in OpenTelemetry community
-repo](https://github.com/open-telemetry/community/blob/main/guides/contributor/membership.md).
